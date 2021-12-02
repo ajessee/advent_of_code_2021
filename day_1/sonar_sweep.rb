@@ -36,5 +36,5 @@ sonar = SonarSweep.new
 puzzle_answer1 = sonar.depth_measurement_increases
 puzzle_answer2 = sonar.three_depth_measurement_increases
 
-puts "The first sonar measurement increase was #{puzzle_answer1}, and the refined sonar measurement increase was #{puzzle_answer2}. Sleigh keys found!"
+puts "The first sonar measurement increase was #{puzzle_answer1}, and the refined sonar measurement increase was #{puzzle_answer2}."
 
